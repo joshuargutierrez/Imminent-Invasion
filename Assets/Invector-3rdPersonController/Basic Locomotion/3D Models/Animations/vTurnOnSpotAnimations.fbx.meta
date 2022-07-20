@@ -1,497 +1,173 @@
 fileFormatVersion: 2
 guid: 009c43c371cbf974f860ee540816fa3d
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: Arm.L
-  - first:
-      1: 100002
-    second: Arm.R
-  - first:
-      1: 100004
-    second: Armature
-  - first:
-      1: 100006
-    second: Foot.L
-  - first:
-      1: 100008
-    second: Foot.R
-  - first:
-      1: 100010
-    second: ForeArm.L
-  - first:
-      1: 100012
-    second: ForeArm.R
-  - first:
-      1: 100014
-    second: Hand.L
-  - first:
-      1: 100016
-    second: Hand.R
-  - first:
-      1: 100018
-    second: HandIndex1.L
-  - first:
-      1: 100020
-    second: HandIndex1.R
-  - first:
-      1: 100022
-    second: HandIndex2.L
-  - first:
-      1: 100024
-    second: HandIndex2.R
-  - first:
-      1: 100026
-    second: HandIndex3.L
-  - first:
-      1: 100028
-    second: HandIndex3.L_end
-  - first:
-      1: 100030
-    second: HandIndex3.R
-  - first:
-      1: 100032
-    second: HandIndex3.R_end
-  - first:
-      1: 100034
-    second: Handler.L
-  - first:
-      1: 100036
-    second: Handler.L_end
-  - first:
-      1: 100038
-    second: Handler.R
-  - first:
-      1: 100040
-    second: Handler.R_end
-  - first:
-      1: 100042
-    second: HandMiddle1.L
-  - first:
-      1: 100044
-    second: HandMiddle1.R
-  - first:
-      1: 100046
-    second: HandMiddle2.L
-  - first:
-      1: 100048
-    second: HandMiddle2.R
-  - first:
-      1: 100050
-    second: HandMiddle3.L
-  - first:
-      1: 100052
-    second: HandMiddle3.L_end
-  - first:
-      1: 100054
-    second: HandMiddle3.R
-  - first:
-      1: 100056
-    second: HandMiddle3.R_end
-  - first:
-      1: 100058
-    second: HandPinky1.L
-  - first:
-      1: 100060
-    second: HandPinky1.R
-  - first:
-      1: 100062
-    second: HandPinky2.L
-  - first:
-      1: 100064
-    second: HandPinky2.R
-  - first:
-      1: 100066
-    second: HandPinky3.L
-  - first:
-      1: 100068
-    second: HandPinky3.L_end
-  - first:
-      1: 100070
-    second: HandPinky3.R
-  - first:
-      1: 100072
-    second: HandPinky3.R_end
-  - first:
-      1: 100074
-    second: HandRing1.L
-  - first:
-      1: 100076
-    second: HandRing1.R
-  - first:
-      1: 100078
-    second: HandRing2.L
-  - first:
-      1: 100080
-    second: HandRing2.R
-  - first:
-      1: 100082
-    second: HandRing3.L
-  - first:
-      1: 100084
-    second: HandRing3.L_end
-  - first:
-      1: 100086
-    second: HandRing3.R
-  - first:
-      1: 100088
-    second: HandRing3.R_end
-  - first:
-      1: 100090
-    second: HandThumb1.L
-  - first:
-      1: 100092
-    second: HandThumb1.R
-  - first:
-      1: 100094
-    second: HandThumb2.L
-  - first:
-      1: 100096
-    second: HandThumb2.R
-  - first:
-      1: 100098
-    second: HandThumb3.L
-  - first:
-      1: 100100
-    second: HandThumb3.L_end
-  - first:
-      1: 100102
-    second: HandThumb3.R
-  - first:
-      1: 100104
-    second: HandThumb3.R_end
-  - first:
-      1: 100106
-    second: Head
-  - first:
-      1: 100108
-    second: Head_end
-  - first:
-      1: 100110
-    second: Hips
-  - first:
-      1: 100112
-    second: Leg.L
-  - first:
-      1: 100114
-    second: Leg.R
-  - first:
-      1: 100116
-    second: Neck
-  - first:
-      1: 100118
-    second: Root
-  - first:
-      1: 100120
-    second: Shoulder.L
-  - first:
-      1: 100122
-    second: Shoulder.R
-  - first:
-      1: 100124
-    second: Spine
-  - first:
-      1: 100126
-    second: Spine1
-  - first:
-      1: 100128
-    second: Spine2
-  - first:
-      1: 100130
-    second: ToeBase.L
-  - first:
-      1: 100132
-    second: ToeBase.L_end
-  - first:
-      1: 100134
-    second: ToeBase.R
-  - first:
-      1: 100136
-    second: ToeBase.R_end
-  - first:
-      1: 100138
-    second: UpLeg.L
-  - first:
-      1: 100140
-    second: UpLeg.R
-  - first:
-      1: 100142
-    second: vBot
-  - first:
-      1: 100144
-    second: //RootNode
-  - first:
-      4: 400000
-    second: Arm.L
-  - first:
-      4: 400002
-    second: Arm.R
-  - first:
-      4: 400004
-    second: Armature
-  - first:
-      4: 400006
-    second: Foot.L
-  - first:
-      4: 400008
-    second: Foot.R
-  - first:
-      4: 400010
-    second: ForeArm.L
-  - first:
-      4: 400012
-    second: ForeArm.R
-  - first:
-      4: 400014
-    second: Hand.L
-  - first:
-      4: 400016
-    second: Hand.R
-  - first:
-      4: 400018
-    second: HandIndex1.L
-  - first:
-      4: 400020
-    second: HandIndex1.R
-  - first:
-      4: 400022
-    second: HandIndex2.L
-  - first:
-      4: 400024
-    second: HandIndex2.R
-  - first:
-      4: 400026
-    second: HandIndex3.L
-  - first:
-      4: 400028
-    second: HandIndex3.L_end
-  - first:
-      4: 400030
-    second: HandIndex3.R
-  - first:
-      4: 400032
-    second: HandIndex3.R_end
-  - first:
-      4: 400034
-    second: Handler.L
-  - first:
-      4: 400036
-    second: Handler.L_end
-  - first:
-      4: 400038
-    second: Handler.R
-  - first:
-      4: 400040
-    second: Handler.R_end
-  - first:
-      4: 400042
-    second: HandMiddle1.L
-  - first:
-      4: 400044
-    second: HandMiddle1.R
-  - first:
-      4: 400046
-    second: HandMiddle2.L
-  - first:
-      4: 400048
-    second: HandMiddle2.R
-  - first:
-      4: 400050
-    second: HandMiddle3.L
-  - first:
-      4: 400052
-    second: HandMiddle3.L_end
-  - first:
-      4: 400054
-    second: HandMiddle3.R
-  - first:
-      4: 400056
-    second: HandMiddle3.R_end
-  - first:
-      4: 400058
-    second: HandPinky1.L
-  - first:
-      4: 400060
-    second: HandPinky1.R
-  - first:
-      4: 400062
-    second: HandPinky2.L
-  - first:
-      4: 400064
-    second: HandPinky2.R
-  - first:
-      4: 400066
-    second: HandPinky3.L
-  - first:
-      4: 400068
-    second: HandPinky3.L_end
-  - first:
-      4: 400070
-    second: HandPinky3.R
-  - first:
-      4: 400072
-    second: HandPinky3.R_end
-  - first:
-      4: 400074
-    second: HandRing1.L
-  - first:
-      4: 400076
-    second: HandRing1.R
-  - first:
-      4: 400078
-    second: HandRing2.L
-  - first:
-      4: 400080
-    second: HandRing2.R
-  - first:
-      4: 400082
-    second: HandRing3.L
-  - first:
-      4: 400084
-    second: HandRing3.L_end
-  - first:
-      4: 400086
-    second: HandRing3.R
-  - first:
-      4: 400088
-    second: HandRing3.R_end
-  - first:
-      4: 400090
-    second: HandThumb1.L
-  - first:
-      4: 400092
-    second: HandThumb1.R
-  - first:
-      4: 400094
-    second: HandThumb2.L
-  - first:
-      4: 400096
-    second: HandThumb2.R
-  - first:
-      4: 400098
-    second: HandThumb3.L
-  - first:
-      4: 400100
-    second: HandThumb3.L_end
-  - first:
-      4: 400102
-    second: HandThumb3.R
-  - first:
-      4: 400104
-    second: HandThumb3.R_end
-  - first:
-      4: 400106
-    second: Head
-  - first:
-      4: 400108
-    second: Head_end
-  - first:
-      4: 400110
-    second: Hips
-  - first:
-      4: 400112
-    second: Leg.L
-  - first:
-      4: 400114
-    second: Leg.R
-  - first:
-      4: 400116
-    second: Neck
-  - first:
-      4: 400118
-    second: Root
-  - first:
-      4: 400120
-    second: Shoulder.L
-  - first:
-      4: 400122
-    second: Shoulder.R
-  - first:
-      4: 400124
-    second: Spine
-  - first:
-      4: 400126
-    second: Spine1
-  - first:
-      4: 400128
-    second: Spine2
-  - first:
-      4: 400130
-    second: ToeBase.L
-  - first:
-      4: 400132
-    second: ToeBase.L_end
-  - first:
-      4: 400134
-    second: ToeBase.R
-  - first:
-      4: 400136
-    second: ToeBase.R_end
-  - first:
-      4: 400138
-    second: UpLeg.L
-  - first:
-      4: 400140
-    second: UpLeg.R
-  - first:
-      4: 400142
-    second: vBot
-  - first:
-      4: 400144
-    second: //RootNode
-  - first:
-      21: 2100000
-    second: VBOT__main_torso1
-  - first:
-      21: 2100002
-    second: VBOT__rubber1
-  - first:
-      21: 2100004
-    second: VBOT__secondary_torso1
-  - first:
-      21: 2100006
-    second: VBOT__Secondary_members1
-  - first:
-      21: 2100008
-    second: VBOT__Main_members1
-  - first:
-      21: 2100010
-    second: VBOT__metal3
-  - first:
-      21: 2100012
-    second: VBOT__metal4
-  - first:
-      43: 4300000
-    second: vBot
-  - first:
-      95: 9500000
-    second: //RootNode
-  - first:
-      137: 13700000
-    second: vBot
-  - first:
-      74: -2893743026720447327
-    second: Crouch_WalkRight_InPlace
-  - first:
-      74: -5508357832084655506
-    second: standing_walk_right_InPlace
-  - first:
-      74: 5908583710877457969
-    second: WalkRight_InPlace
-  - first:
-      74: -5495367200724739231
-    second: AimedWalkRight_InPlace
-  - first:
-      74: -9100593940644269426
-    second: AimedCrouchWalkRight_InPlace
-  - first:
-      74: -744450954914381049
-    second: Bow_walk_right_InPlace
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm.L
+    100002: Arm.R
+    100004: Armature
+    100006: Foot.L
+    100008: Foot.R
+    100010: ForeArm.L
+    100012: ForeArm.R
+    100014: Hand.L
+    100016: Hand.R
+    100018: HandIndex1.L
+    100020: HandIndex1.R
+    100022: HandIndex2.L
+    100024: HandIndex2.R
+    100026: HandIndex3.L
+    100028: HandIndex3.L_end
+    100030: HandIndex3.R
+    100032: HandIndex3.R_end
+    100034: Handler.L
+    100036: Handler.L_end
+    100038: Handler.R
+    100040: Handler.R_end
+    100042: HandMiddle1.L
+    100044: HandMiddle1.R
+    100046: HandMiddle2.L
+    100048: HandMiddle2.R
+    100050: HandMiddle3.L
+    100052: HandMiddle3.L_end
+    100054: HandMiddle3.R
+    100056: HandMiddle3.R_end
+    100058: HandPinky1.L
+    100060: HandPinky1.R
+    100062: HandPinky2.L
+    100064: HandPinky2.R
+    100066: HandPinky3.L
+    100068: HandPinky3.L_end
+    100070: HandPinky3.R
+    100072: HandPinky3.R_end
+    100074: HandRing1.L
+    100076: HandRing1.R
+    100078: HandRing2.L
+    100080: HandRing2.R
+    100082: HandRing3.L
+    100084: HandRing3.L_end
+    100086: HandRing3.R
+    100088: HandRing3.R_end
+    100090: HandThumb1.L
+    100092: HandThumb1.R
+    100094: HandThumb2.L
+    100096: HandThumb2.R
+    100098: HandThumb3.L
+    100100: HandThumb3.L_end
+    100102: HandThumb3.R
+    100104: HandThumb3.R_end
+    100106: Head
+    100108: Head_end
+    100110: Hips
+    100112: Leg.L
+    100114: Leg.R
+    100116: Neck
+    100118: Root
+    100120: Shoulder.L
+    100122: Shoulder.R
+    100124: Spine
+    100126: Spine1
+    100128: Spine2
+    100130: ToeBase.L
+    100132: ToeBase.L_end
+    100134: ToeBase.R
+    100136: ToeBase.R_end
+    100138: UpLeg.L
+    100140: UpLeg.R
+    100142: vBot
+    100144: //RootNode
+    400000: Arm.L
+    400002: Arm.R
+    400004: Armature
+    400006: Foot.L
+    400008: Foot.R
+    400010: ForeArm.L
+    400012: ForeArm.R
+    400014: Hand.L
+    400016: Hand.R
+    400018: HandIndex1.L
+    400020: HandIndex1.R
+    400022: HandIndex2.L
+    400024: HandIndex2.R
+    400026: HandIndex3.L
+    400028: HandIndex3.L_end
+    400030: HandIndex3.R
+    400032: HandIndex3.R_end
+    400034: Handler.L
+    400036: Handler.L_end
+    400038: Handler.R
+    400040: Handler.R_end
+    400042: HandMiddle1.L
+    400044: HandMiddle1.R
+    400046: HandMiddle2.L
+    400048: HandMiddle2.R
+    400050: HandMiddle3.L
+    400052: HandMiddle3.L_end
+    400054: HandMiddle3.R
+    400056: HandMiddle3.R_end
+    400058: HandPinky1.L
+    400060: HandPinky1.R
+    400062: HandPinky2.L
+    400064: HandPinky2.R
+    400066: HandPinky3.L
+    400068: HandPinky3.L_end
+    400070: HandPinky3.R
+    400072: HandPinky3.R_end
+    400074: HandRing1.L
+    400076: HandRing1.R
+    400078: HandRing2.L
+    400080: HandRing2.R
+    400082: HandRing3.L
+    400084: HandRing3.L_end
+    400086: HandRing3.R
+    400088: HandRing3.R_end
+    400090: HandThumb1.L
+    400092: HandThumb1.R
+    400094: HandThumb2.L
+    400096: HandThumb2.R
+    400098: HandThumb3.L
+    400100: HandThumb3.L_end
+    400102: HandThumb3.R
+    400104: HandThumb3.R_end
+    400106: Head
+    400108: Head_end
+    400110: Hips
+    400112: Leg.L
+    400114: Leg.R
+    400116: Neck
+    400118: Root
+    400120: Shoulder.L
+    400122: Shoulder.R
+    400124: Spine
+    400126: Spine1
+    400128: Spine2
+    400130: ToeBase.L
+    400132: ToeBase.L_end
+    400134: ToeBase.R
+    400136: ToeBase.R_end
+    400138: UpLeg.L
+    400140: UpLeg.R
+    400142: vBot
+    400144: //RootNode
+    2100000: VBOT__main_torso1
+    2100002: VBOT__rubber1
+    2100004: VBOT__secondary_torso1
+    2100006: VBOT__Secondary_members1
+    2100008: VBOT__Main_members1
+    2100010: VBOT__metal3
+    2100012: VBOT__metal4
+    4300000: vBot
+    7400000: standing_walk_right_InPlace
+    7400002: WalkRight_InPlace
+    7400004: AimedWalkRight_InPlace
+    7400006: AimedCrouchWalkRight_InPlace
+    7400008: Crouch_WalkRight_InPlace
+    7400010: Bow_walk_right_InPlace
+    9500000: //RootNode
+    13700000: vBot
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -520,7 +196,6 @@ ModelImporter:
     - serializedVersion: 16
       name: standing_walk_right_InPlace
       takeName: standing_walk_right_InPlace
-      internalID: -5508357832084655506
       firstFrame: 0
       lastFrame: 76
       wrapMode: 0
@@ -549,7 +224,6 @@ ModelImporter:
     - serializedVersion: 16
       name: WalkRight_InPlace
       takeName: WalkRight_InPlace
-      internalID: 5908583710877457969
       firstFrame: 0
       lastFrame: 34
       wrapMode: 0
@@ -578,7 +252,6 @@ ModelImporter:
     - serializedVersion: 16
       name: AimedWalkRight_InPlace
       takeName: AimedWalkRight_InPlace
-      internalID: -5495367200724739231
       firstFrame: 0
       lastFrame: 32
       wrapMode: 0
@@ -607,7 +280,6 @@ ModelImporter:
     - serializedVersion: 16
       name: AimedCrouchWalkRight_InPlace
       takeName: AimedCrouchWalkRight_InPlace
-      internalID: -9100593940644269426
       firstFrame: 0
       lastFrame: 39
       wrapMode: 0
@@ -636,7 +308,6 @@ ModelImporter:
     - serializedVersion: 16
       name: Crouch_WalkRight_InPlace
       takeName: Crouch_WalkRight_InPlace
-      internalID: -2893743026720447327
       firstFrame: 0
       lastFrame: 51
       wrapMode: 0
@@ -665,7 +336,6 @@ ModelImporter:
     - serializedVersion: 16
       name: Bow_walk_right_InPlace
       takeName: Bow_walk_right_InPlace
-      internalID: -744450954914381049
       firstFrame: 0
       lastFrame: 30
       wrapMode: 0
@@ -698,28 +368,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -728,10 +395,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human:
     - boneName: Hips
       humanName: Hips
@@ -1524,16 +1191,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 3
   humanoidOversampling: 1
-  avatarSetup: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

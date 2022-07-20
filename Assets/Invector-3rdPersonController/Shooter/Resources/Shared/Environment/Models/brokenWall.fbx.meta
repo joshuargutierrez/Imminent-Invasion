@@ -1,8 +1,286 @@
 fileFormatVersion: 2
 guid: 1cb1ff6f6073c8a4da7d5ea49f82b73c
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BrokenWall
+    100002: //RootNode
+    100004: BrokenWall_cell
+    100006: BrokenWall_cell.001
+    100008: BrokenWall_cell.003
+    100010: BrokenWall_cell.005
+    100012: BrokenWall_cell.006
+    100014: BrokenWall_cell.008
+    100016: BrokenWall_cell.009
+    100018: BrokenWall_cell.010
+    100020: BrokenWall_cell.011
+    100022: BrokenWall_cell.012
+    100024: BrokenWall_cell.013
+    100026: BrokenWall_cell.014
+    100028: BrokenWall_cell.015
+    100030: BrokenWall_cell.016
+    100032: BrokenWall_cell.017
+    100034: BrokenWall_cell.018
+    100036: BrokenWall_cell.019
+    100038: BrokenWall_cell.020
+    100040: BrokenWall_cell.021
+    100042: BrokenWall_cell.022
+    100044: BrokenWall_cell.023
+    100046: BrokenWall_cell.025
+    100048: BrokenWall_cell.026
+    100050: BrokenWall_cell.027
+    100052: BrokenWall_cell.029
+    100054: BrokenWall_cell.030
+    100056: BrokenWall_cell.031
+    100058: BrokenWall_cell.032
+    100060: BrokenWall_cell.033
+    100062: BrokenWall_cell.034
+    100064: BrokenWall_cell.036
+    100066: BrokenWall_cell.038
+    100068: BrokenWall_cell.039
+    100070: BrokenWall_cell.040
+    100072: BrokenWall_cell.041
+    100074: BrokenWall_cell.042
+    100076: BrokenWall_cell.044
+    100078: BrokenWall_cell.045
+    100080: BrokenWall_cell.046
+    100082: BrokenWall_cell.047
+    100084: BrokenWall_cell.048
+    100086: BrokenWall_cell.049
+    100088: BrokenWall_cell.050
+    100090: BrokenWall_cell.051
+    100092: BrokenWall_cell.052
+    100094: BrokenWall_cell.053
+    100096: BrokenWall_cell.054
+    100098: BrokenWall_cell.057
+    100100: BrokenWall_cell.058
+    100102: BrokenWall_cell.060
+    100104: BrokenWall_cell.061
+    100106: BrokenWall_cell.062
+    100108: BrokenWall_cell.063
+    100110: OutsideWall
+    400000: BrokenWall
+    400002: //RootNode
+    400004: BrokenWall_cell
+    400006: BrokenWall_cell.001
+    400008: BrokenWall_cell.003
+    400010: BrokenWall_cell.005
+    400012: BrokenWall_cell.006
+    400014: BrokenWall_cell.008
+    400016: BrokenWall_cell.009
+    400018: BrokenWall_cell.010
+    400020: BrokenWall_cell.011
+    400022: BrokenWall_cell.012
+    400024: BrokenWall_cell.013
+    400026: BrokenWall_cell.014
+    400028: BrokenWall_cell.015
+    400030: BrokenWall_cell.016
+    400032: BrokenWall_cell.017
+    400034: BrokenWall_cell.018
+    400036: BrokenWall_cell.019
+    400038: BrokenWall_cell.020
+    400040: BrokenWall_cell.021
+    400042: BrokenWall_cell.022
+    400044: BrokenWall_cell.023
+    400046: BrokenWall_cell.025
+    400048: BrokenWall_cell.026
+    400050: BrokenWall_cell.027
+    400052: BrokenWall_cell.029
+    400054: BrokenWall_cell.030
+    400056: BrokenWall_cell.031
+    400058: BrokenWall_cell.032
+    400060: BrokenWall_cell.033
+    400062: BrokenWall_cell.034
+    400064: BrokenWall_cell.036
+    400066: BrokenWall_cell.038
+    400068: BrokenWall_cell.039
+    400070: BrokenWall_cell.040
+    400072: BrokenWall_cell.041
+    400074: BrokenWall_cell.042
+    400076: BrokenWall_cell.044
+    400078: BrokenWall_cell.045
+    400080: BrokenWall_cell.046
+    400082: BrokenWall_cell.047
+    400084: BrokenWall_cell.048
+    400086: BrokenWall_cell.049
+    400088: BrokenWall_cell.050
+    400090: BrokenWall_cell.051
+    400092: BrokenWall_cell.052
+    400094: BrokenWall_cell.053
+    400096: BrokenWall_cell.054
+    400098: BrokenWall_cell.057
+    400100: BrokenWall_cell.058
+    400102: BrokenWall_cell.060
+    400104: BrokenWall_cell.061
+    400106: BrokenWall_cell.062
+    400108: BrokenWall_cell.063
+    400110: OutsideWall
+    2300000: BrokenWall
+    2300002: BrokenWall_cell
+    2300004: BrokenWall_cell.001
+    2300006: BrokenWall_cell.003
+    2300008: BrokenWall_cell.005
+    2300010: BrokenWall_cell.006
+    2300012: BrokenWall_cell.008
+    2300014: BrokenWall_cell.009
+    2300016: BrokenWall_cell.010
+    2300018: BrokenWall_cell.011
+    2300020: BrokenWall_cell.012
+    2300022: BrokenWall_cell.013
+    2300024: BrokenWall_cell.014
+    2300026: BrokenWall_cell.015
+    2300028: BrokenWall_cell.016
+    2300030: BrokenWall_cell.017
+    2300032: BrokenWall_cell.018
+    2300034: BrokenWall_cell.019
+    2300036: BrokenWall_cell.020
+    2300038: BrokenWall_cell.021
+    2300040: BrokenWall_cell.022
+    2300042: BrokenWall_cell.023
+    2300044: BrokenWall_cell.025
+    2300046: BrokenWall_cell.026
+    2300048: BrokenWall_cell.027
+    2300050: BrokenWall_cell.029
+    2300052: BrokenWall_cell.030
+    2300054: BrokenWall_cell.031
+    2300056: BrokenWall_cell.032
+    2300058: BrokenWall_cell.033
+    2300060: BrokenWall_cell.034
+    2300062: BrokenWall_cell.036
+    2300064: BrokenWall_cell.038
+    2300066: BrokenWall_cell.039
+    2300068: BrokenWall_cell.040
+    2300070: BrokenWall_cell.041
+    2300072: BrokenWall_cell.042
+    2300074: BrokenWall_cell.044
+    2300076: BrokenWall_cell.045
+    2300078: BrokenWall_cell.046
+    2300080: BrokenWall_cell.047
+    2300082: BrokenWall_cell.048
+    2300084: BrokenWall_cell.049
+    2300086: BrokenWall_cell.050
+    2300088: BrokenWall_cell.051
+    2300090: BrokenWall_cell.052
+    2300092: BrokenWall_cell.053
+    2300094: BrokenWall_cell.054
+    2300096: BrokenWall_cell.057
+    2300098: BrokenWall_cell.058
+    2300100: BrokenWall_cell.060
+    2300102: BrokenWall_cell.061
+    2300104: BrokenWall_cell.062
+    2300106: BrokenWall_cell.063
+    2300108: OutsideWall
+    3300000: BrokenWall
+    3300002: BrokenWall_cell
+    3300004: BrokenWall_cell.001
+    3300006: BrokenWall_cell.003
+    3300008: BrokenWall_cell.005
+    3300010: BrokenWall_cell.006
+    3300012: BrokenWall_cell.008
+    3300014: BrokenWall_cell.009
+    3300016: BrokenWall_cell.010
+    3300018: BrokenWall_cell.011
+    3300020: BrokenWall_cell.012
+    3300022: BrokenWall_cell.013
+    3300024: BrokenWall_cell.014
+    3300026: BrokenWall_cell.015
+    3300028: BrokenWall_cell.016
+    3300030: BrokenWall_cell.017
+    3300032: BrokenWall_cell.018
+    3300034: BrokenWall_cell.019
+    3300036: BrokenWall_cell.020
+    3300038: BrokenWall_cell.021
+    3300040: BrokenWall_cell.022
+    3300042: BrokenWall_cell.023
+    3300044: BrokenWall_cell.025
+    3300046: BrokenWall_cell.026
+    3300048: BrokenWall_cell.027
+    3300050: BrokenWall_cell.029
+    3300052: BrokenWall_cell.030
+    3300054: BrokenWall_cell.031
+    3300056: BrokenWall_cell.032
+    3300058: BrokenWall_cell.033
+    3300060: BrokenWall_cell.034
+    3300062: BrokenWall_cell.036
+    3300064: BrokenWall_cell.038
+    3300066: BrokenWall_cell.039
+    3300068: BrokenWall_cell.040
+    3300070: BrokenWall_cell.041
+    3300072: BrokenWall_cell.042
+    3300074: BrokenWall_cell.044
+    3300076: BrokenWall_cell.045
+    3300078: BrokenWall_cell.046
+    3300080: BrokenWall_cell.047
+    3300082: BrokenWall_cell.048
+    3300084: BrokenWall_cell.049
+    3300086: BrokenWall_cell.050
+    3300088: BrokenWall_cell.051
+    3300090: BrokenWall_cell.052
+    3300092: BrokenWall_cell.053
+    3300094: BrokenWall_cell.054
+    3300096: BrokenWall_cell.057
+    3300098: BrokenWall_cell.058
+    3300100: BrokenWall_cell.060
+    3300102: BrokenWall_cell.061
+    3300104: BrokenWall_cell.062
+    3300106: BrokenWall_cell.063
+    3300108: OutsideWall
+    4300000: OutsideWall
+    4300002: BrokenWall
+    4300004: BrokenWall_cell
+    4300006: BrokenWall_cell.001
+    4300008: BrokenWall_cell.003
+    4300010: BrokenWall_cell.005
+    4300012: BrokenWall_cell.006
+    4300014: BrokenWall_cell.008
+    4300016: BrokenWall_cell.009
+    4300018: BrokenWall_cell.010
+    4300020: BrokenWall_cell.011
+    4300022: BrokenWall_cell.012
+    4300024: BrokenWall_cell.013
+    4300026: BrokenWall_cell.014
+    4300028: BrokenWall_cell.015
+    4300030: BrokenWall_cell.016
+    4300032: BrokenWall_cell.017
+    4300034: BrokenWall_cell.018
+    4300036: BrokenWall_cell.019
+    4300038: BrokenWall_cell.020
+    4300040: BrokenWall_cell.021
+    4300042: BrokenWall_cell.022
+    4300044: BrokenWall_cell.023
+    4300046: BrokenWall_cell.025
+    4300048: BrokenWall_cell.026
+    4300050: BrokenWall_cell.027
+    4300052: BrokenWall_cell.029
+    4300054: BrokenWall_cell.030
+    4300056: BrokenWall_cell.031
+    4300058: BrokenWall_cell.032
+    4300060: BrokenWall_cell.033
+    4300062: BrokenWall_cell.034
+    4300064: BrokenWall_cell.036
+    4300066: BrokenWall_cell.038
+    4300068: BrokenWall_cell.039
+    4300070: BrokenWall_cell.040
+    4300072: BrokenWall_cell.041
+    4300074: BrokenWall_cell.042
+    4300076: BrokenWall_cell.044
+    4300078: BrokenWall_cell.045
+    4300080: BrokenWall_cell.046
+    4300082: BrokenWall_cell.047
+    4300084: BrokenWall_cell.048
+    4300086: BrokenWall_cell.049
+    4300088: BrokenWall_cell.050
+    4300090: BrokenWall_cell.051
+    4300092: BrokenWall_cell.052
+    4300094: BrokenWall_cell.053
+    4300096: BrokenWall_cell.054
+    4300098: BrokenWall_cell.057
+    4300100: BrokenWall_cell.058
+    4300102: BrokenWall_cell.060
+    4300104: BrokenWall_cell.061
+    4300106: BrokenWall_cell.062
+    4300108: BrokenWall_cell.063
+    9500000: //RootNode
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -10,7 +288,7 @@ ModelImporter:
       name: ConcreteFloor.001
     second: {fileID: 2100000, guid: fcd5424ab32282e448793b49aa88a7cc, type: 2}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -43,28 +321,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -73,10 +348,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -86,16 +361,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
