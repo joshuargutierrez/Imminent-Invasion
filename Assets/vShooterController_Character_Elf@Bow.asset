@@ -13,73 +13,72 @@ MonoBehaviour:
   m_Name: vShooterController_Character_Elf@Bow
   m_EditorClassIdentifier: 
   weaponCategories:
-  - HandGun
-  - Pistol
+  - Bow
   ikAdjustsLeft:
   - name: Standing
     weaponHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.20176147, y: -0.3913321, z: 0.16791706}
+      eulerAngles: {x: 0.0000043652585, y: -0.0000032701635, z: 45.165268}
     weaponHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.39890793, y: 0.2008761, z: 0.2360942}
+      eulerAngles: {x: -0, y: 0, z: 0}
     supportHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.002849191, y: -0.3486785, z: -0.29489732}
+      eulerAngles: {x: 314.50983, y: 315.35834, z: 278.01804}
     supportHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.32689145, y: 0.14412582, z: 0.15245132}
+      eulerAngles: {x: -0, y: 0, z: 0}
     spineOffset:
       spine: {x: 0, y: 0}
-      head: {x: 0, y: 0}
+      head: {x: -21, y: 34}
   - name: StandingAiming
     weaponHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: -0.16096438, y: -0.7134147, z: -0.42323565}
+      eulerAngles: {x: 19.033764, y: 337.7278, z: 32.91479}
     weaponHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: -3.928586e-27, y: 3.4345657e-26, z: 4.03673e-26}
+      eulerAngles: {x: -0, y: 0, z: 0}
     supportHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: -0.03257389, y: 0.03952668, z: -0.17090474}
+      eulerAngles: {x: 20.729593, y: 276.68384, z: 229.24681}
     supportHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: -1.3506559e-26, y: 2.4642531e-26, z: -1.8503335e-26}
+      eulerAngles: {x: -0, y: 0, z: 0}
     spineOffset:
-      spine: {x: 0, y: 0}
-      head: {x: 0, y: 0}
+      spine: {x: -4, y: 0}
+      head: {x: -9, y: 20}
   - name: Crouching
     weaponHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.20354576, y: 0.008581057, z: -0.1847635}
+      eulerAngles: {x: 346.0319, y: 331.7632, z: 320.979}
     weaponHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.000000054948025, y: 0.000000022351742, z: 0.16186912}
+      eulerAngles: {x: -0, y: 0, z: 0}
     supportHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: -0.0033060755, y: 0.29102883, z: -0.03851817}
+      eulerAngles: {x: 39.396698, y: 69.290924, z: 358.3434}
     supportHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.49509174, y: -0.090033755, z: -0.11110611}
+      eulerAngles: {x: -0, y: 0, z: 0}
     spineOffset:
       spine: {x: 0, y: 0}
-      head: {x: 0, y: 0}
+      head: {x: -24, y: 35}
   - name: CrouchingAiming
     weaponHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.20203035, y: -0.38714907, z: -0.09088557}
+      eulerAngles: {x: 6.9459295, y: 323.22476, z: 28.956577}
     weaponHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.47756448, y: 0.0021461248, z: 0.09086198}
+      eulerAngles: {x: -0, y: 0, z: 0}
     supportHandOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 0.02374067, y: 0.029260235, z: -0.113638796}
+      eulerAngles: {x: 22.99579, y: 255.03546, z: 237.327}
     supportHintOffset:
-      position: {x: 0, y: 0, z: 0}
-      eulerAngles: {x: 0, y: 0, z: 0}
+      position: {x: 1e-45, y: 1e-45, z: -1e-45}
+      eulerAngles: {x: -0, y: 0, z: 0}
     spineOffset:
       spine: {x: 0, y: 0}
-      head: {x: 0, y: 0}
+      head: {x: -25, y: 16}
   ikAdjustsRight:
   - name: Standing
     weaponHandOffset:
