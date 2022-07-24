@@ -913,8 +913,8 @@ MonoBehaviour:
   isEquiped: 0
   destroyAfterUse: 0
   canBeUsed: 0
-  canBeDroped: 1
-  canBeDestroyed: 1
+  canBeDroped: 0
+  canBeDestroyed: 0
   EnableAnim: HighBack
   DisableAnim: HighBack
   enableDelayTime: 0.5
@@ -1100,8 +1100,8 @@ MonoBehaviour:
   isEquiped: 0
   destroyAfterUse: 0
   canBeUsed: 0
-  canBeDroped: 1
-  canBeDestroyed: 1
+  canBeDroped: 0
+  canBeDestroyed: 0
   EnableAnim: HighBack
   DisableAnim: HighBack
   enableDelayTime: 0.5
